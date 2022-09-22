@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'popins', sans-serif;
+    box-sizing: border-box;
+}
+.container
+{
+    margin: 10px 20px;
+    width: 100%;
+}
+.container img{
+    width: 100px;
+}
